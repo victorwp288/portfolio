@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welcome to Victor Wejergang Petersen's Portfolio
 
-## Getting Started
+Hello there! I'm Victor, a passionate and creative web developer based in Copenhagen, Denmark. I recently graduated from KEA (Copenhagen School of Design and Technology) where I honed my skills in JavaScript and modern web development techniques.
 
-First, run the development server:
+## About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+As a web developer, I specialize in crafting interactive and user-friendly websites. My journey in web development began at KEA, where I learned the ins and outs of JavaScript and various web technologies. I am constantly exploring new technologies and techniques to stay at the forefront of web development.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Portfolio
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can view my projects and contributions here:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- [GitHub](https://github.com/victorwp288)
+- [Personal Website](https://portfolio-psi-ashy-79.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/vwp/)
 
-## Learn More
+Each project in my portfolio is a testament to my dedication to quality and innovation in web development.
 
-To learn more about Next.js, take a look at the following resources:
+## Skills
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Languages:** PHP, Python, JavaScript
+- **Frameworks & Libraries:** Next.js, SvelteKit, Express
+- **Tools & Technologies:** Git
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contact Me
 
-## Deploy on Vercel
+Feel free to reach out to me for collaborations, freelance opportunities, or just a chat about web development.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Email:** [victorwpetersen@gmail.com](mailto:victorwpetersen@gmail.com)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+Thank you for visiting my portfolio. I look forward to the opportunity to collaborate and create something amazing together!

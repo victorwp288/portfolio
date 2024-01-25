@@ -17,7 +17,7 @@ export default function Home() {
           </Link>
           <Link
             className="text-sm font-medium hover:underline underline-offset-4"
-            href="#"
+            href="/about"
           >
             About
           </Link>
@@ -61,7 +61,7 @@ export default function Home() {
                   <CardTitle>Project 1</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <img
+                  <Image
                     alt="Project 1"
                     className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
                     height="310"
@@ -78,7 +78,7 @@ export default function Home() {
                   <CardTitle>Project 2</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <img
+                  <Image
                     alt="Project 2"
                     className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
                     height="310"
@@ -95,7 +95,7 @@ export default function Home() {
                   <CardTitle>Project 3</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <img
+                  <Image
                     alt="Project 3"
                     className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
                     height="310"
